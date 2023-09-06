@@ -1,5 +1,5 @@
 
-Vehicle Safety Alarm System
+Vehicle Safety Alarm System using Intel 8086
 
  Overview
 The Vehicle Safety Alarm System is designed to enhance vehicular safety, addressing a critical issue considering the millions of lives lost annually to road accidents. Using the Proteus CAD Software, I've simulated an 8086 microprocessor and interfaced it with a circuit. The core functionality revolves around a pressure plate. Once this plate detects the weight of a passenger, the system checks for both the seat belt's engagement and the door's lock status. If either is not secure, the system activates an alarm and an LED light as a warning.
