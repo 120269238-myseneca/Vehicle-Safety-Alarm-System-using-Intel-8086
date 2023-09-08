@@ -10,8 +10,7 @@ Features
 
 1. Pressure Plate Detection: Detects when someone sits in the seat, initiating the safety check.
 2. Seat Belt Check: Verifies if the seat belt is engaged when a passenger is detected.
-3. Door Lock Check: Validates if the door is securely locked when a passenger is present.
-4. Alarm System: Sounds an alarm and illuminates an LED light if safety protocols aren't met.
+3. Alarm System: Sounds an alarm if safety protocols aren't met.
 
 Prerequisites
 - Proteus CAD Software- Ensure you have the latest version installed.
