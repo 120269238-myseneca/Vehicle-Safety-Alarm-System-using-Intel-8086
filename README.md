@@ -19,7 +19,7 @@ Prerequisites
 
 1. Clone the repository:
    
-   git clone https://github.com/sodeep/VehicleSafetyAlarmSystem.git
+   git clone https://github.com/SuTiger6/VehicleSafetyAlarmSystem.git
     
 2. Open the project in Proteus CAD Software.
 
